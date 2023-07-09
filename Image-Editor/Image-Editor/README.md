@@ -64,9 +64,4 @@ Setting up development environment (for VS Code Users)
 4. Start up Live server
   <img src="https://i.imgur.com/drgG1vF.png"/>
   Navigate to the bottom right corner of Visual Studio Code window and click on the "Go Live" button.
-  Your project will get loaded on the localhost url:
-  http://127.0.0.1:5500/
   
-
-
-
